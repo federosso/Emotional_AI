@@ -1,5 +1,3 @@
----
-
 **Titolo: Verso un’IA con Attenzione Emotiva: Un Nuovo Approccio per la Simulazione della Coscienza**
 
 **Introduzione**
